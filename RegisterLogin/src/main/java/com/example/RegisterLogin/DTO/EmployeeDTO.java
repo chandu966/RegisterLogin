@@ -2,8 +2,6 @@ package com.example.RegisterLogin.DTO;
 
 public class EmployeeDTO {
 	
-	
-	
 	private int employeeid;
 	private String employeename;	
 	private String email;	

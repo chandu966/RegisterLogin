@@ -36,5 +36,4 @@ public class LoginDTO {
 		return "LoginDTO [email=" + email + ", password=" + password + "]";
 	}
 	
-	
 }
